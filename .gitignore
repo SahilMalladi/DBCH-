@@ -1,0 +1,9 @@
+.venv/
+outputs/
+__pycache__/
+*.xlsx
+*.xlsb
+*.xls
+*.csv
+*.eml
+.env
